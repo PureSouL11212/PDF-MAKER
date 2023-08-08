@@ -15,3 +15,15 @@
     overflow: hidden;
     word-wrap:break-word;
 }
+.center{
+    color: red;
+    /* width: 100%;
+    margin-top: 200px; */
+    /* padding: 20px 20px 50px 600px; */
+}
+.center button{
+    padding:0px 20px;
+    border-radius:20px;
+    background-color: rgb(42, 39, 39);
+    color: white;
+}
