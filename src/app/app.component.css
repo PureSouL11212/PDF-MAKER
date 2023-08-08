@@ -1,0 +1,17 @@
+#content{
+    width: 595px;
+    height:842px;
+}
+
+#table{
+    max-width: 2488px;
+    width: 100%;
+}
+
+
+/* td=table  data */
+#table td{
+    width:auto;
+    overflow: hidden;
+    word-wrap:break-word;
+}
